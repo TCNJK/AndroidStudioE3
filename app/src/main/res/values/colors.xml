@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="purple_200">#CE93D8</color>
     <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+
 </resources>
